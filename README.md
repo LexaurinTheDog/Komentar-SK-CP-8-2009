@@ -6,7 +6,7 @@ Konsolidované znenie k **1. 9. 2026**, zdroj [slov-lex.sk](https://www.slov-lex
 
 ## Obsah
 
-Viz [INDEX.md](INDEX.md) — prehľad kapitol podľa systematiky zákona. Táto verzia komentára obsahuje kapitoly 06 – 10 (§ 97 – § 146): vedenie vozidiel II. (vodičské preukazy, evidencia vodičov), evidencia vozidiel a evidenčné čísla, zodpovednosť za porušenie povinností (vrátane objektívnej zodpovednosti držiteľa vozidla a blokového konania) a spoločné, prechodné a záverečné ustanovenia. Kapitoly 01 – 05, venované § 1 – § 96 (základné ustanovenia, pravidlá cestnej premávky, dopravné značky a zariadenia, vedenie vozidiel I.), budú doplnené v samostatnej neskoršej fáze. Podrobný popis metódy je v [00-uvod.md](00-uvod.md).
+Viz [INDEX.md](INDEX.md) — kompletný prehľad kapitol podľa systematiky zákona. Podrobný popis metódy je v [00-uvod.md](00-uvod.md).
 
 ## Metóda
 

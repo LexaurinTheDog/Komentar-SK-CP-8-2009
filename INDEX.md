@@ -1,12 +1,13 @@
 # INDEX — Komentár k zákonu č. 8/2009 Z. z., o cestnej premávke
 
 - [00-uvod.md](00-uvod.md) — Úvod, metóda, základné údaje
+- [01-chapter.md](01-chapter.md) — Základné ustanovenia, Pravidlá cestnej premávky, I. (§ 1 – § 21)
+- [02-chapter.md](02-chapter.md) — Pravidlá cestnej premávky, II. (§ 22 – § 45)
+- [03-chapter.md](03-chapter.md) — Pravidlá cestnej premávky, III., Dopravné nehody (§ 46 – § 70)
+- [04-chapter.md](04-chapter.md) — Oprávnenia policajta pri dohľade nad bezpečnosťou a plynulosťou cestnej premávky (§ 71 – § 81)
+- [05-chapter.md](05-chapter.md) — Vedenie vozidiel, I. (§ 82 – § 96)
 - [06-chapter.md](06-chapter.md) — Vedenie vozidiel, II., Evidencia vozidiel, I.: obnovenie a výmena vodičského preukazu, neplatnosť, medzinárodný vodičský preukaz, uznávanie preukazov vydaných v cudzine, evidencia vodičov ako informačný systém Policajného zboru vrátane cezhraničnej výmeny údajov, osobitné oprávnenie na vedenie električky a trolejbusu, otvorenie šiestej časti zákona — evidencia vozidiel (§ 97 – § 112)
 - [07-chapter.md](07-chapter.md) — Evidencia vozidiel, evidovanie vozidiel a evidenčné čísla, II.: poskytovanie informácií z evidencie vozidiel vrátane cezhraničnej výmeny údajov cez systém EUCARIS, evidovanie vozidiel — prihlasovanie vozidiel do evidencie, zápis vlastníka a držiteľa, oznamovanie zmien osobne aj elektronicky (§ 113 – § 118)
 - [08-chapter.md](08-chapter.md) — Evidencia vozidiel, evidovanie vozidiel a evidenčné čísla, III.: odhlásenie vozidla do cudziny, dočasné a trvalé vyraďovanie vozidiel z evidencie, zastupovanie pri evidenčných úkonoch, riadne, zvláštne a osobitné evidenčné číslo, tabuľky s evidenčným číslom — vyhotovenie, pripevňovanie, strata, odcudzenie a duplikáty (§ 119 – § 132a)
 - [09-chapter.md](09-chapter.md) — Evidencia vozidiel, IV., Zodpovednosť za porušenie povinností: spoločné ustanovenia o evidencii vozidiel (poznávacia značka, výroba tlačív a tabuliek, osobitné povinnosti a osobitné vozidlá), katalóg závažných porušení pravidiel cestnej premávky, správne delikty právnických osôb a podnikateľov, objektívna zodpovednosť držiteľa vozidla za priestupky zaznamenané technickými prostriedkami, evidencia správnych deliktov, blokové konanie, úvod k výnimkám z pravidiel cestnej premávky a k dotknutému orgánu v stavebnom konaní (§ 133 – § 140a)
 - [10-chapter.md](10-chapter.md) — Spoločné, prechodné a záverečné ustanovenia: vzťah k správnemu poriadku a medzinárodným zmluvám, prechodné ustanovenia k jednotlivým novelám vrátane osobitnej úpravy súvisiacej s pandémiou ochorenia COVID-19, výkladové a transpozičné ustanovenie, zrušovacie ustanovenie nahrádzajúce cestný zákon č. 315/1996 Z. z. (§ 141 – § 146)
-
-## Stav pokrytia
-
-Táto verzia komentára obsahuje kapitoly 06 – 10, ktoré vykladajú § 97 – § 146 zákona (vedenie vozidiel II., evidencia vozidiel, evidenčné čísla, zodpovednosť za porušenie povinností, spoločné, prechodné a záverečné ustanovenia). Kapitoly 01 – 05, venované § 1 – § 96 (základné ustanovenia, pravidlá cestnej premávky, dopravné značky a zariadenia, vedenie vozidiel I.), budú doplnené v samostatnej neskoršej fáze.
